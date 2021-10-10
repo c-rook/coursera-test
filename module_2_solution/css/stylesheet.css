@@ -153,6 +153,7 @@ h2 {
 	margin-left: 75%;
 	margin-block-start: 0px;
 	font-size: 150%;
+	border: 1px black;
 }
 p {
 	padding:  10px;
