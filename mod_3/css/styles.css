@@ -1,0 +1,82 @@
+*/ {
+	box-sizing: border-box;
+	font-family: sans-serif;
+}
+
+body{
+	background-color: red;
+	font-family: 'Papyrus';
+}
+.navbar-header {
+
+	border: 10px;
+	border-color: black;
+	background-color:;
+}
+.navbar-collapse{
+	padding:  0px;
+}
+.navbar-brand h1 {
+	color: black;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	line-height: .5
+}
+
+#header-nav{
+	background-color: darkslategray;
+	margin-bottom:  0;
+	border:  2px black;
+	}
+.navbar-default button.navbar-toggle button.navbar-toggle.collapsed, {
+	color: black;
+	border: 2px black solid;
+	border-color: black;
+}
+.navbar-default .navbar-toggle {
+	border-color: black;
+}
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: black;
+	border:  2px ;
+	border-color: black;
+}
+@media (min-width: 768px) {
+ #collapsable-nav {
+	line-height: : 110px;
+	border-color: black;
+	background-color:  transparent;
+}
+}
+@media (max-width: 767px) {
+	#collapsable-nav {
+		background-color: whitesmoke;
+	}
+}
+#nav-list {
+	line-height: 100px;
+	border: 0px solid;
+	border-color: black;
+	margin: 0px;
+	margin-left: 0px;
+	padding:  0px;
+}
+#nav-list li a {
+	border: 2px black solid;
+	color:  black;
+	line-height: 7px;
+
+}
+.main-title {
+	color: black;
+
+}
+.menu-content {
+	width: 80%;
+}
+.first-item {
+	color:  black;
+	background-color: darkslategrey;
+	margin: 0px;
+	padding: 20px 50px;
+}
